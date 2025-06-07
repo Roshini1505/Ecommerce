@@ -34,8 +34,6 @@ public class ProductController {
 	public ResponseEntity<ResponseDTO> saveProductDetails(@RequestBody ProductDTO dto){
 		return null;
 		
-		
-		
 	}
 		
 	@GetMapping("/product")
